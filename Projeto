@@ -15,10 +15,11 @@ utilizando Python e integração com o Microsoft Word.
 
 - Python 3.x
 - Bibliotecas:
-  - `pandas`
-  - `openpyxl`
-  - `python-docx`
-- Microsoft Word (para os modelos .docx)
+  - pandas: leitura e acesso aos dados da planilha .csv
+  - pyautogui: simulação de cliques, atalhos de teclado e interação com a tela
+  - pyperclip: cópia de dados para a área de transferência (clipboard)
+  - time: controle de pausas entre ações automatizadas
+  - os: abertura automática de novos documentos Word com base em um modelo
 
 ## ⚠️ Observações
 
