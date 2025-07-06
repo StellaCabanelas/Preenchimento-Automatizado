@@ -8,7 +8,7 @@ tabela = pandas.read_csv(r"C:\Users\Stella C. Aranha\Downloads\AUTOMAÇÃO\pedid
 
 time.sleep(2)
 
-# Define os 3 padrões de posição"58640-000"
+# Define os 3 padrões de posição
 posicoes = [
     {  # Posição 1
         'nome': (707, 252),
